@@ -17,3 +17,5 @@ $ ./bin/hdr input/test1/*
 ### Image resultat
 L'image résultat sera disponible dans le dossier output.
 
+### Mathematiques
+Vous trouverez le rapport de projet expliquant les mathématiques utilisées pour ce projet dans le fichier rapport.pdf
