@@ -1,6 +1,6 @@
 # HDR
 
-Projet permettant à partir de plusieurs images avec differents temps d'exposition de recréer une seule image.
+Projet permettant à partir de plusieurs images avec differents temps d'exposition de recréer une seule image. (Sujet : http://igm.univ-mlv.fr/~vnozick/teaching/projetsMath/hdr/hdr.pdf)
 
 ### Langage
 C++
